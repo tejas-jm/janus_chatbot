@@ -336,27 +336,21 @@ http://127.0.0.1:7860
 
 # 🎬 Demo
 
-## Telegram / Discord Text Query (`/ask`)
+## Telegram Demo
 
-![Text Query Demo](assets/demo-text-query.gif)
-
----
-
-## Telegram / Discord Image Query
-
-![Image Query Demo](assets/demo-image-query.gif)
+![Telegram Demo](assets/telegram_demo_final.gif)
 
 ---
 
-## Conversation Summarization (`/summarize`)
+## Discord Demo
 
-![Summarize Demo](assets/demo-summarize.gif)
+![Discord Demo](assets/discord_demo_final.gif)
 
 ---
 
 ## Gradio Local UI
 
-![Gradio Demo](assets/demo-gradio.gif)
+![Gradio Demo](assets/local_ui_demo_final.gif)
 
 ---
 
