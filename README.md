@@ -267,7 +267,7 @@ Without this enabled, the bot cannot read `/ask` commands.
 
 ---
 
-## OAuth2 Setup
+#### OAuth2 Setup
 
 Open **OAuth2 → URL Generator**
 
