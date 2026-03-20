@@ -1,0 +1,10 @@
+IT Support Frequently Asked Questions
+
+Q: How do I reset my company email password?
+A: You can reset your password by visiting the IT portal at myaccount.company.internal and clicking "Forgot Password". You will need to authenticate using your phone's Duo Mobile app.
+
+Q: What is the Wi-Fi password for the main office?
+A: For employees, connect to "Corp_Secure" using your standard email credentials. Guests should use the network "Corp_Guest" with the password "Welcome2024!".
+
+Q: How do I request new hardware like a mouse or monitor?
+A: Submit a ticket through the Jira Service Desk under the "Hardware Procurement" category. Approvals take 2-3 business days.

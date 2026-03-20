@@ -1,0 +1,19 @@
+Company Emergency Contacts Directory
+
+Human Resources (HR)
+Name: Sarah Jenkins
+Role: Head of HR
+Email: s.jenkins@company.com
+Phone: 555-0192
+
+IT Security
+Name: Mike Chen
+Role: Lead Systems Administrator
+Email: m.chen@company.com
+Phone: 555-0198
+
+Building Management (New York Office)
+Name: Front Desk Security
+Role: 24/7 Building Operations
+Email: security@nybuilding.com
+Phone: 555-0999
