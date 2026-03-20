@@ -1,4 +1,4 @@
-# 🤖 Janus — Hybrid Multi-Modal Chatbot
+# Janus — Hybrid Multi-Modal Chatbot
 
 A lightweight, multi-modal Generative AI chatbot that runs concurrently on **Telegram** and **Discord**, with an optional **Gradio local debugging UI**.
 
@@ -18,7 +18,7 @@ This system uses a **decoupled architecture**, separating platform integrations 
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```mermaid
 graph TD
@@ -45,7 +45,7 @@ graph TD
 
 ---
 
-# 🌊 Data Flow
+# Data Flow
 
 ```mermaid
 sequenceDiagram
@@ -110,7 +110,7 @@ sequenceDiagram
 
 ---
 
-# 🧠 Tech Stack & Models
+# Tech Stack & Models
 
 ## Text Generation
 
@@ -143,7 +143,7 @@ sequenceDiagram
 
 ---
 
-# 📂 File Structure
+# File Structure
 
 ```text
 project_root/
@@ -167,7 +167,7 @@ project_root/
 
 ---
 
-# ⚙️ Prerequisites & Installation
+# Prerequisites & Installation
 
 ## 1. Install Local Models
 
@@ -219,7 +219,7 @@ venv\Scripts\activate
 
 ---
 
-# 🔑 Configuration & Bot Setup
+# Configuration & Bot Setup
 
 Create a `.env` file in the project root:
 
@@ -354,7 +354,7 @@ http://127.0.0.1:7860
 
 ---
 
-# 💬 Command Reference
+# Command Reference
 
 | Command        | Platform           | Description                                                        |
 | -------------- | ------------------ | ------------------------------------------------------------------ |
@@ -364,7 +364,7 @@ http://127.0.0.1:7860
 | `/image`       | Discord            | Attach image for caption + tags                                    |
 
 
-# 🧪 Testing
+# Testing
 
 A complete testing checklist is available in:
 
